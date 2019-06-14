@@ -1,1 +1,1 @@
-Just me and @bradvenner's pathetic attempts to learn haskell
+Just me and @bvenner's pathetic attempts to learn haskell
